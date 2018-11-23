@@ -1,5 +1,5 @@
 [[constraint]]
-  branch = "master"
+  version = "3.2.0"
   name = "github.com/dgrijalva/jwt-go"
 
 [[constraint]]
